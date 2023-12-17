@@ -26,7 +26,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 50vh;
+  height: 350px;
   width: 90%;
 }
 .profile {
@@ -102,7 +102,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 4%;
-    height: 60vh;
+    height: 420px;
     width: 90%;
   }
   .profile {
@@ -166,7 +166,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 45vh;
+  height: 315px;
   width: 90%;
 }
 .edu {
@@ -208,7 +208,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 50vh;
+  height: 350px;
   width: 90%;
 }
 .skills1 {
@@ -246,7 +246,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 30vh;
+  height: 210px;
   width: 90%;
 }
 .achieve {
@@ -275,7 +275,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 20vh;
+  height: 14px;
   width: 90%;
 }
 .training {
@@ -297,7 +297,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 40vh;
+  height: 280px;
   width: 90%;
 }
 .social {
@@ -331,7 +331,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 4%;
-  height: 20vh;
+  height: 140px;
   width: 90%;
   background-image: linear-gradient(#dfe9f3 0%, white 100%);
 
